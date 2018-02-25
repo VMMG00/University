@@ -1,5 +1,5 @@
 /*
- * Practica tema 6, Morales Garcia Victor
+ * Practica tema 6, VMMG00
  * Cliente TCP
  */
 
