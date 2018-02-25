@@ -1,5 +1,5 @@
 /*
- * Practica tema 5, Morales Garcia Victor
+ * Practica tema 5, VMMG00
  * Cliente UDP
  */
 
